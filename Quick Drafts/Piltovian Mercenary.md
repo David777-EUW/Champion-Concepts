@@ -28,6 +28,6 @@ If the main target is the first to get hit by this ability, they take bonus dama
 After 1.5s delay, blink a fixed distance in the marked direction. Cannot be cast while immobilized or grounded.  
 **Upgrade:** Can store two charges, and gain a short lasting shield after blinking.
 
-### W: Search and Destroy
-**Active:** Send up to 4 missiles to your nearest enemies, prioritizing *Vulnerable* targets, dealing damage in a small area upon impact.  
+### R: Search and Destroy
+**Active:** Send up to 4 missiles to your nearest enemies (one missile per enemy), prioritizing *Vulnerable* targets, dealing damage in a small area upon impact.  
 **Upgrade:** Missiles will deal bonus damage based on missing HP to *Vulnerable* targets.
