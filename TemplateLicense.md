@@ -7,7 +7,7 @@ deals with structuring and formatting of the template; the blanks left marked
 such as `-ChampionDescription-` and `-Champion Lore-` aren't considered
 part of it, and their removal and replacement for names, descriptions and other
 such shall be considered an use of the work, and as such will be covered by
-[#### 1. Exception to Section 3 of the GNU GPL.](1. Exception to Section 3 of the GNU GPL).
+[1. Exception to Section 3 of the GNU GPL](#1-exception-to-section-3-of-the-gnu-gpl.).
 
 I beg pardon for the boring legalese.
 
