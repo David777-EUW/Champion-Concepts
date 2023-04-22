@@ -12,7 +12,7 @@ Read the Template License [here](TemplateLicense.md).
 # The Template code
 ```Markdown
 # Champion Name
-**Notes:**  
+**General Notes:**  
 -GeneralDesignNotes-
 
 ## Brief Description
@@ -62,7 +62,7 @@ Read the Template License [here](TemplateLicense.md).
 # An example of use
 
 # Dan Shocker, The Electrifying Fist
-**Notes:**  
+**General Notes:**  
 This is a champion concept I created in little time, with the purpose of serving as an example to the use of the template.  
 It is a champion who fights with punches charged by lightning.
 
