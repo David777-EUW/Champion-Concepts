@@ -1,3 +1,5 @@
+This template is based on Djinn's Simple Champion Design Template, made anew to be displayed in GitHub and best use MarkDown features.
+
 © 2023 [David777-EUW](https://github.com/David777-EUW)
 
 > This is a free template: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
