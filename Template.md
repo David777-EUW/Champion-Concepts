@@ -6,7 +6,7 @@
 > 
 > You should have received a copy of the GNU General Public License along with this template. If not, see <https://www.gnu.org/licenses/>.
 
-[Template License](TemplateLicense.md).
+Read the Template License [here](TemplateLicense.md).
 
 
 # The Template code
