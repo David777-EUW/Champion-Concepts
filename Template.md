@@ -97,8 +97,8 @@ Enemies passed through are briefly slowed.
 If an enemy champion is passed through and then punched, they are stunned and take additional damage from the punch.
 
 **Notes:**  
-First active ability designed.  
-Aims to provide both mobility and durability.
+The first active ability designed for this concept, core to the gameplay.  
+It aims to provide both mobility and durability.
 
 ### W: The Face Wrecker
 *First & Second Cast:*  
@@ -110,7 +110,7 @@ Enemies take increased damage for each barrage they've been hit during this cast
 If used during Forward Shock, it'll aim at the punched enemy.
 
 **Notes:**  
-An ability meant to deal damage and synergize with Forward Shock.
+This is an ability meant to deal damage and synergize with Forward Shock.
 
 ### E: Redirect Static
 *First Cast:*  
@@ -119,7 +119,7 @@ Enemy champions and large monsters hit are marked, becoming visible for 3s.
 You gain increased attack speed against marked targets.
 
 **Notes:**  
-I didn't really know what to put here, so this ended being a fancy attack steroid.
+I honestly didn't know what to finish the kit with, so this ended being a fancy attack steroid.
 
 ### R: Lightning Echo
 *Passive:*  
